@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🏫 1st year CS student at **Informatics Institute of Technology**, affiliated with **University of Westminster**
+- 🏫 2nd year CS student at **Informatics Institute of Technology**, affiliated with **University of Westminster**
 - 💬 Continuously working on improving communication and soft skills
 - 🌱 Currently contributing to the **EnerFlow** web project (SDG 7)
 
