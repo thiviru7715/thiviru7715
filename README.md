@@ -11,7 +11,7 @@
 
 - 🏫 2nd year CS student at **Informatics Institute of Technology**, affiliated with **University of Westminster**
 - 💬 Continuously working on improving communication and soft skills
-- 🌱 Currently contributing to the **EnerFlow** web project (SDG 7)
+- 🌱 Currently contributing to the **NexAttend** web project (SDGP)
 
 ---
 
